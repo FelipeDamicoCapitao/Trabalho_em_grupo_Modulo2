@@ -204,8 +204,8 @@ espera(0.2)
 print(f"{NBranco}Seja bem vindo ao questionario de avaliação da Supervia\nDaremos inicio ao cadastro do primeiro cliente: {Corfim}")
 
 # Execução da Classe:
-def main():
-    pesquisa = Pesquisa()
-    pesquisa.coletar_respostas() #A1
-    pesquisa.salvar_respostas_csv() #A2
+
+pesquisa = Pesquisa()
+pesquisa.coletar_respostas() #A1
+pesquisa.salvar_respostas_csv() #A2
 
