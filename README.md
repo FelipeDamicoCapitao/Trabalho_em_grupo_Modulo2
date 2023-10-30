@@ -35,12 +35,12 @@
    - Github instalado
 
   ## 1- Clonar Repositorio no IDE via Github:
-    [https://github.com/FelipeDamicoCapitao/Trabalho_individual_Modulo2](https://github.com/FelipeDamicoCapitao/Trabalho_em_grupo_Modulo2)
+    https://github.com/FelipeDamicoCapitao/Trabalho_em_grupo_Modulo2
 
   ## 2 - executar o projeto
     pesquisa_com_classe.py
 
-# Autorewa:
+# Autores:
 
     Felipe Capitão (Co-Facilitador)
     Luana Duarte (Gestora de Conhecimento)
