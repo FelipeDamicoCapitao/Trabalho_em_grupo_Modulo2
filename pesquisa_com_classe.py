@@ -200,13 +200,6 @@ class Pesquisa:
 
 # ######################################################################################################################################################
 # ######################################################################################################################################################
-# Inicio do programa:
-
-X = "Supervia - Avaliação de Clientes"
-sep(X)
-espera(0.2)
-print(f"{NBranco}Seja bem vindo ao questionario de avaliação da Supervia\nDaremos inicio ao cadastro do primeiro cliente: {Corfim}")
-
 # Execução da Classe:
 
 pesquisa = Pesquisa()
