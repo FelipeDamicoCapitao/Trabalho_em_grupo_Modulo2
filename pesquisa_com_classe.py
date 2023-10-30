@@ -39,6 +39,10 @@ Corfim = "\033[m"
 # ######################################################################################################################################################
 
 class Pesquisa:
+    X = "Supervia - Avaliação de Clientes"
+    sep(X)
+    espera(0.2)
+    print(f"{NBranco}Seja bem vindo ao questionario de avaliação da Supervia\nDaremos inicio ao cadastro do primeiro cliente: {Corfim}")
 
 # ##################################################
 # Atributos da pesquisa = respostas
