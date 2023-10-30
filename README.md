@@ -1,4 +1,4 @@
-# Sistema de avaliação de candidatos (Trabalho Individual - Modulo 2)
+#  Supervia - Avaliação de Clientes(Trabalho em grupo - Modulo 2)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeDamicoCapitao/Trabalho_em_grupo_Modulo2/blob/main/LICENSE)
 
 # Sobre o Projeto
